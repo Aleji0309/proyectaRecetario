@@ -1,30 +1,31 @@
 
-# Arquitectura CSS - Proyecto del curso
 
-Proyecto del curso de Arquitectura CSS de **Alura LATAM**, este proyecto es la página web de un sitio de recetas que lleva por nombre Fruta & Fruto construido en el transcurso del curso. 
+# Fruta & Fruto - CSS Architecture  
 
-El proyecto fue realizado aplicando la metodología **Atomic Desing** creando un archivo para cada CSS, manteniendo así nuestros códigos cortos y facilitando el mantenimiento, también utilizamos la metodología **BEM** para nombrar las clases dentro del proyecto. 
+## Description  
+This project was developed as part of the **CSS Architecture** course on Alura LATAM. It is a website for a recipe platform called **Fruta & Fruto**, built throughout the course.  
 
+The project applies the **Atomic Design methodology**, organizing styles into separate CSS files to keep the code modular and maintainable. Additionally, the **BEM methodology** was used for class naming, ensuring a structured and scalable CSS architecture.  
 
-## Comenzando 🚀
+## Solution Link  
+[GitHub - Fruta & Fruto](https://github.com/Aleji0309/proyectaRecetario/tree/main/Frutas)  
 
-Este repositorio contiene varias Branch, como este proyecto fue realizado para el curso de arquitectura CSS, en cada clase fue desarrollado el código de una sección del proyecto.
+## Live Site Link  
+[Live View](https://proyectarecetario.netlify.app/)  
 
-Cada Branch esta identificada con el nombre aula y el numero del aula correspondiente. 
+## Technologies Used  
+- HTML  
+- CSS (Atomic Design & BEM Methodology)  
 
-Ejemplo:  **aula-1**
+## What I Learned  
+Through this project, I gained experience in organizing CSS using **Atomic Design**, making styles modular and reusable. I also applied **BEM methodology** to create a consistent and structured naming convention, improving scalability and maintainability.  
 
-*En la rama principal (main) se encuentra el código completo del proyecto.*
+## Ongoing Development  
+I plan to continue refining my CSS skills by exploring **preprocessors like SASS**, improving **performance optimization**, and incorporating **advanced CSS techniques** for better design consistency.  
 
-### Pre-requisitos y uso 📋
+## Author  
+Ale Leandro Jiménez  
 
-Descarga el código que necesites seleccionando la Branch dentro de este repositorio y ábrelo con tu editor de código favorito. 
-
-
----
- Con :blue_heart: 
-- [Alura Latam](https://www.aluracursos.com/) 
-- [Instructora: Jeanmarie Quijada](https://github.com/JeanmarieAluraLatam) 
 
 
 
